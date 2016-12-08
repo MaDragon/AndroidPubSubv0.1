@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Dec 08 11:39:43 CET 2016
+1.base=/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/res/resources-debug.ap_
+1.file=/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+2.base=/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/res/resources-debug.ap_/res/drawable/ic_launcher.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/res/resources-debug.ap_
+3.file=/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.file=/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/res/resources-debug.ap_/resources.arsc

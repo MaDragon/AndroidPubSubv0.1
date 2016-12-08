@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-iot/2.2.22/f0753db8c9be1b837d4922a342e506d51c6bf924/aws-android-sdk-iot-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f0753db8c9be1b837d4922a342e506d51c6bf924">
+        <dex dex="/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-iot-2.2.22_c0bd324ebc7bd02f37b084600fe545dce3e58bfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2761f2d4178d01e7876514fe838f66a3389acc78">
+        <dex dex="/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eaf8233953891e99b7d35ce9c8fde6568654e954/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.1.0/89d827ffa47c241f2627421ef1d6c7a8c207a341/org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.client.mqttv3-1.1.0_6f4eb9d2b0eee1f6c33f0af9c4787f3f0a44d392/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Develop/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_0f71655bc270a14492f1c963e9e40c06c4862d0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.22/c6789de00db9d1f93faec881fa0c1f5960fb8a15/aws-android-sdk-core-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.22_88524219a2f0d2dffceb3b221ee9caafd85fa137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b1ddfa75b0bcef7fd23bae49685a340cbc810dcb">
+        <dex dex="/home/zhizhong/Downloads/develop/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e8023cf45b72619a93903ef5d17e4be1228dfcdf/classes.dex" />
+    </item>
+
+</items>
