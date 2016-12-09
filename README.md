@@ -30,6 +30,7 @@
 6. Find endpoint of AWS IoT and paste it.
 7. The code has been modified as below
 8. **Unistall the app** and then build and run the app. It will be successful.
+
 #Below is the original from aws github:
 This sample demonstrates use of the AWS IoT APIs to securely publish to and subscribe from MQTT topics.  It uses Cognito authentication in conjunction with AWS IoT to create an identity (client certificate and private key) and store it in a Java keystore.  This identity is then used to authenticate to AWS IoT.  Once a connection to the AWS IoT platform has been established, the application presents a simple UI to publish and subscribe over MQTT.  After certificate and private key have been added to the keystore the app will use these for future connections.
 
