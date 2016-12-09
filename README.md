@@ -1,8 +1,8 @@
 # Android PubSub Sample
 
-
+##
 ## Added scan/publish BLE sensor data to AWS IoT function, based on pubsub sample
-
+##
 This sample demonstrates use of the AWS IoT APIs to securely publish to and subscribe from MQTT topics.  It uses Cognito authentication in conjunction with AWS IoT to create an identity (client certificate and private key) and store it in a Java keystore.  This identity is then used to authenticate to AWS IoT.  Once a connection to the AWS IoT platform has been established, the application presents a simple UI to publish and subscribe over MQTT.  After certificate and private key have been added to the keystore the app will use these for future connections.
 
 ## Requirements
